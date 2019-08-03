@@ -1,2 +1,3 @@
 # Fi-mbulvintr
-Open-source Legion Repository based on TrinityCore and AshamaneCore
+#java
+Open-source GPON Huawei conf. app
